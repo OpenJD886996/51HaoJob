@@ -34,9 +34,9 @@ Open Source Database of SCAM companies.
     - 以“违约金”形式变相收取培训费。
 - 相关记录：如截图等（命名格式：`yyyy-MM-dd.jpg`、`yyyy-MM-dd.png`等，如包含个人信息请自行打码）。
 
-## [填写模板](./cities/Template.md)
+## [填写模板](./cities/TEMPLATE.md)
 
-请参阅[填写模板](./cities/Template.md)。
+请参阅[填写模板](./cities/TEMPLATE.md)。
 
 ## 各城市名单
 
